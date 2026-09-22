@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to prevent the default save action from being triggered when the Enter key is pressed while editing a multiline text box in the Syncfusion Blazor DataGrid. In multiline editing scenarios, users often expect the Enter key to insert a new line instead of completing the edit operation. The sample shows how the Grid editing experience can be customized to avoid unintended save operations and provide a more natural text-entry workflow.
+This sample demonstrates how to prevent the default save action from being triggered when the Enter key is pressed while editing a multiline text box in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). In multiline editing scenarios, users often expect the Enter key to insert a new line instead of completing the edit operation. The sample shows how the Grid editing experience can be customized to avoid unintended save operations and provide a more natural text-entry workflow.
 
 ## Key Features
 
